@@ -6,7 +6,7 @@ It allows users to add, complete, and delete tasks, with data stored in **LocalS
 ---
 
 ## 🚀 Live Demo
-🔗 https://vatsalkc.github.io/todo-list/
+🔗 https://vatsalkc.github.io/todo-list/index.html
 
 ---
 
